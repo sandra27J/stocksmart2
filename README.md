@@ -1,6 +1,8 @@
-# stocksmart2
 Stock Smart: Inventory Management System for Small Businesses
+<<<<<<< HEAD
 # StockSmart - Inventory Management System
+=======
+>>>>>>> aec94c8e38d9ad1d065b35488902e41e6e576640
 
 StockSmart is a web-based inventory management system designed for small businesses to track and manage their stock levels efficiently.
 
@@ -17,6 +19,7 @@ StockSmart is a web-based inventory management system designed for small busines
 
 - Backend: ASP.NET Core Web API
 - Frontend: React.js (future implementation)
+<<<<<<< HEAD
 - Database: MongoDB
 - Testing: xUnit + Moq
 
@@ -34,3 +37,12 @@ StockSmart is a web-based inventory management system designed for small busines
    ```bash
    git clone https://github.com/yourusername/StockSmart.git
    cd StockSmart
+=======
+- Testing: xUnit + Moq
+
+### Prerequisites
+
+- .NET 8 SDK
+- Node.js (for future frontend)
+
+>>>>>>> aec94c8e38d9ad1d065b35488902e41e6e576640
