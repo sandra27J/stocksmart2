@@ -20,6 +20,12 @@
   </ItemGroup>
 
   <ItemGroup>
+  <Compile Include="Services\AuthServiceTests.cs" />
+  <Compile Include="Services\ProductServiceTests.cs" />
+</ItemGroup>
+
+
+  <ItemGroup>
     <ProjectReference Include="..\StockSmart.Core\StockSmart.Core.csproj" />
     <ProjectReference Include="..\StockSmart.API\StockSmart.API.csproj" />
   </ItemGroup>
